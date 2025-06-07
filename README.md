@@ -41,7 +41,7 @@ AppointmentSystem/
 │ │ │ ├── model/ # Entity classes
 │ │ │ ├── repository/ # JPA Repositories
 │ │ │ ├── service/ # Business logic
-│ │ │ ├── config/ # Security and JWT config
+│ │ │ ├── config/ # Security 
 │ │ │ └── AppointmentSystemApplication.java
 │ │ └── resources/
 │ │ ├── application.properties
